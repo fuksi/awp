@@ -1,0 +1,7 @@
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'eDescription' cannot be null
+asd asda  dasdasd 12:00 2015-01-19 12:00:00
+asdad    2015-01-11 12:22:00
+asdad Left empty  Left empty 2015-01-19 12:44:00
+asda Left empty  Left empty 2015-01-19 12:11:00
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'eDescription' cannot be null
+
